@@ -1,0 +1,59 @@
+START OF SCENE: Nin: World Savior
+	Nin and The Alchemist start on top of a cliff overlooking the manor of Von Peebles.
+	After a short, one-sided, discussion Nin, affirms that what they are doing is right and just.....and leaps from the cliff.
+	Crashing through the skylight of the manor as the Alchemist screams, Nin sticks the landing as glass rains down.
+	Nin: "OH MY SOUL, I'M ALIVE.  I'M ALIVE!"
+	Von Peebles: "It would appear so..."
+	Von Peebles sits upon a throne in a large empty chamber.
+	(Looking up): "You know it is very expensive to repair that."
+	Nin: "Von Peebles!  You're here!"
+	Von Peebles: "Yes...this is my home.  Did you hit your head?  Or do you really not know where you are?"
+	Nin: "Well, that wasn't EXACTLY on purpose, but don't pretend that you care!"
+	Von Peebles: "You're rather rude visitor."
+	Nin: "I'm not in the business of introductions."
+	Nin pulls her knife, pointing it towards Von Peeble's voice.
+	Von Peebles: "Oh, this again... I'm afraid the novelty of such things has worn itself thin..."
+	Nin: "Its time to put an end to your atrocities."
+	Von Peebles: "..."
+	Nin: "No snappy retort?"
+	Von Peebles: "Suppose I do end here as you say: what then?  Do you assume the throne, rule the order I've created in my stead?"
+	Nin: "..."
+	Von Peebles: "None of you ever think out your 'heroics'.  None of you consider what your actions will come to in the end.
+		You fail to see the greater order, that we are all just gears in the great machine: I have lived long enough to know
+		that machine, to guide, feed and maintain that great MACHINE, and I will live long enough to see that great machine persist.
+		And I will certainly live to memorialize you after you insist on this foolishness....OH, you even brought a friend."
+	The Alchemist: *Defiant squeek*
+	Nin: "If you're so confident, what does it matter if I brought an army?"
+	Von Peebles: "It doesn't, I'm afraid, but it would have been refreshing for anything to be different from EVERY OTHER TIME!"
+
+	Von Peebles rushes Nin and The Alchemist.
+
+	Nin drinks a potion and proceeds to slash attack Von Peebles.
+
+	Von Peebles: "You are very fast: coming from me, I promise you, THAT is a compliment."
+
+	Battle continues.
+
+	Von Peebles gains the advantage.
+
+	Nin: "Go ahead then, finish me off *cough, hack* I guess I'm not the one to finish you afterall *sputter* but at least I tried....someone had to stand up to you."
+
+	Von Peebles: "That is what I tried to tell you before: many have, and you will join they're bravery in the museum like all the rest....."
+	*LOUD NOISE / THUD*
+	Von Peebles: "What's this?  Did you bring an army afterall?" *looks down* "Perhaps not.  I think we will both appreciate it if we finish this when I can honor you afterwards."
+
+	Von Peebles leaves Nin and escapes through a secret passage behind his throne.
+
+	*thundering foot steps*
+	A large band of warriors run up to where Nin is.
+
+	"Where IS HE?"
+	"He was supposed to be here."
+	"Looks like someone got here first..."
+	Royal Paladin: "Hold on.  By Parth, I believe you can be saved."
+	Ember Mage: "What is your name?"
+	Nin: "Nin....and The Alchemist...."
+	The Alchemist: *Squeee*
+	Nin swoons and the scene fades.
+
+END OF SCENE

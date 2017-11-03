@@ -1,0 +1,46 @@
+START OF SCENE: Nin: Another Me
+	[Offscreen]
+	Brave: 		"Halt there stranger."
+	Kunoichi:	"Yeah, hold up a minute."
+	[Nin looks panicked]
+	[Brave and Kunoichi appear]
+	Brave:		"Ah see here, I had thought as much."
+	Kunoichi:	"Well, excuse me if I didn't believe you."
+	Brave:		"As you had not believed me when I first approached you."
+	Kunoichi:	"SOME of us don't spend all day primping in their funny shields."
+	[Brave facepalms]
+	Brave:		"It is called a mirror."
+	Kunoichi:	"So?"
+	[Nin looks horrored]
+	Nin:		"Excuse me."
+	Brave:		"It would have saved us a day at that blasted creek."
+	Kunoichi:	"YOU were afraid your armor would rust."
+	Nin:		"EXCUSE ME."
+	[Brave and Kunoichi look deadpan]
+	Nin:		"Why am I looking at two of me?  And how do you both have tanookis as well?"
+	Brave:		"As was my point in halting you."
+	Kunoichi:	"We wanna know too."
+	Nin:		"But you already....are you...are we....twins?"
+	Brave:		"Nigh, we had thought as much until the sight of you."
+	Kunoichi:	"I TOLD YOU."
+	Brave:		"Twas the only thing that made any sense at the time."
+	Kunoichi:	"Even SHE thinks the tanooki thing is weird too."
+	Brave:		"You reasons were based in your Vanity, do not pretend elsewise." [eye roll]
+	Kunoichi:	"I AM prettier than you, everyone else thinks so."
+	Nin:		"It IS like looking in a mirror: its unreal, but I think if either of us went about
+				in a bathrobe we'd look as good as you."
+	[Kunoichi looks angry]
+	Kunoichi:	"ITS A KOMONO!"
+	Brave:		[Laugh] "Looks like she has fortitude to taunt you so.  I've told you past that 
+				no one in these lands will recognize such confusing garb."
+	Kunoichi:	"NNNNNNGH." [Puff of smoke disappear]
+	Brave:		"Well met, sister."
+	[Nin shifts to a concerned look]
+	Nin:		"No offense, but I don't think we're sisters, not all three of us....and there
+				is how much alike our tanookis look as well."
+	Brave:		"Aye, it seems there is something else happening there."
+	Nin:		"Whatever it is, it can't be good."
+	Brave:		"It matters not, we must move forward.  Tis a war ahead of us."
+	
+
+END OF SCENE

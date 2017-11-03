@@ -1,0 +1,24 @@
+START OF SCENE: Nin: Shadow Me
+	Kunoichi:	"WHAT THE FUCK IS THIS?"
+	Brave:		"Damnable ninja, the battle is on. Why do you cry now?"
+	Nin:		"Another me?"
+	Brave:		"WHAT?"
+	Kunoichi:	"THERE IS ANOTHER ONE OF US OVER THERE!"
+	Nin:		"But it looks like she's....SHE'S GOT HORNS!"
+	Brave:		"What's more, she seems to be an enemy."
+	Kunoichi:	"Keep an eye out for her Tanooki then."
+	Nin:		"Then let's fight our way there: maybe we can get some answers."
+	[The "sisters" fight their way towards Shadow.]
+	
+	Shadow:		"What in all of Daemon Kind?"
+	Nin:		"Did you say "Daemon"?!?!
+	Brave:		"Hold thy sword, I assure you we have much to discuss!"
+	Shadow:		"I don't know what you're on about, but my job is to swing this sword."
+	Kunoichi:	"Listen bitch!  Time you quit before you get beat."
+	Nin:		"We really don't want to fight you."
+	Shadow:		"I wouldn't wanna fight me either, especially if YOU STOLE MY FACE!"
+	Brave:		"If you won't be reasonable, then we shall clash: you thing of EVIL!"
+	Nin:		"This is not the way to get our answers."
+	Kunoichi:	"Answers will have to wait.  Try to stay alive."
+
+END OF SCENE

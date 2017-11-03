@@ -1,0 +1,51 @@
+START OF CAMPAIGN
+	Intro
+	Scene: Nin: World Savior
+		Leap of Faith
+		Villianous Meeting
+		Fixed Encounter: Von Peebles defeats Nin
+		Fleeting Darkness
+	Scene: Introductions
+		Introductions
+		Recap
+		Ninspiracy
+		Pursuit
+	Encounter: Path to Lightning
+		Realization of Hardship
+		Kobolds antagonize heroes.
+	Encounter: Lightning
+		Support: Herald of Lightning, Templar of Lightning,	Knight of Lightning
+	Scene: Lightning Aftermath
+		The Dragon's face
+			The Dragon knight removes his helmet for victory causing the women to swoon.
+			He is "cursed" with magical attraction, therefore is the most handsome elf.
+	Encounter: Path to Roxor
+		Underworld fatigue
+		Elementals antagonize heroes.
+	Encounter: Roxor
+		Support: Rock Gut, Rex, Tex
+	Scene: Roxor Aftermath
+	Encounter: Path to Goro
+		Escape from underground
+		Fae antagonize heroes.
+	Encounter: Goro
+		Support: Glimmerwing, Salt,	Kaelly
+		The Dragon, upon seeing Kaelly, is smitten much as most are to him on site.
+	Scene: Goro Aftermath
+	Encounter: Path to the Fallen Castle
+		Discussions of a Fallen King
+		Plants antagonize heroes
+	Encounter: King of the Fallen
+		Support: Ursaboros, Sassafras, Kasaro To, Shadow Nin
+		Upon seeing Shadow Nin, the other Nins become distraught
+	Scene: Fallen Aftermath
+		An interogation of Shadow Nin reveals that they are clones.
+	Encounter: Path to Von Peebles
+		Final accountability
+		Undead antagonize heroes.
+	Encounter: Von Peebles
+		Support: Death Spectre,	Succubus Vandella, Captain R, Gruesome George
+	Scene: Von Peebles Aftermath
+	Scene: Finale
+	
+END OF CAMPAIGN
