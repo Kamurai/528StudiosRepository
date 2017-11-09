@@ -1,0 +1,3 @@
+Middle Right layer:
+	Height: 750 px
+	Width: 638 px
