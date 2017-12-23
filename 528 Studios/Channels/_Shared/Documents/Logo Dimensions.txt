@@ -1,0 +1,7 @@
+Logo Dimensions:
+	Standard:		1920 x 760
+	Banner:			1440 x 570
+		Twitch:		1300 x 240
+	Channel Art:	1200 x 380
+	Annotations:	1200 x 380
+	Thumbnail:		638 x 750
