@@ -1,0 +1,41 @@
+Gaming Division Review:
+Super Turbo Demon Busters
+(Dead Shell)
+
+Platform:	PC, Steam (Android)
+Applicable Genre:  Strategy, Rogue like, Progession, Management
+
+General:
+	Upfront, I love this game, its fun, simple to play with some nuances and options.  It has a few problems, but its nothing that a little TLC and even some extras couldn't transform this into a laregly succesful title.  As its basically Strategy Doom, if Id bought this IP, or just backed the developement, they'd be able to flush it out and get more platable for a general audience.
+	
+Aesthetics:  70
+	Its a rough, but stylized animation style with good background music and sound effects of varying likabilities.  The game could benefit a lot from animating the character in the dungeon, but I imagine that would actually be part of a change in mechanics similar to "Guild of Dungeoneering".  The game is missing some punch, and redoing the art style in a reboot would be an easily accessible way to do it without breaking the game.
+
+Control Interface:  75
+	This game tries very hard to keep a simple interface, but this is a case where if feels the interface is restrictive because of the lack of options, which in some cases is by design.  On the world map, you're allowed to do 3 things: move to next area, go to "bonus" area, go to menu, and this makes sense.  It actively pushes you along the linear narrative.  Once we get into a dungeon / bunker the controls open up, but feel just as restrictive. Being able to press numbers to equip weapons instead of going to the menu (which is not obvious) would be enough to fix the non-combat control, but the in combat ability to DRY FIRE your weapon at enemies is so counter intuitive that I can't believe it go past ANY part of the design process. 
+
+Environmental Controls:  75
+	The are quest that are broken, period, this should not have happened, and when you switch characters, that character starts with NO WEAPON other than the basic axe unless you manually assign one. There is an non-intuitive "run from the impending doom" scenario on the world map that will end your game that I feel doesn't belong as it operates in real time where the rest of the game operates in a turn-based environment.  Seriously it gave me twitches for the rest of the game, even after the event was over.
+
+Game Mechanics:  90
+	In the beginning of the game when you have limited options and you haven't accumulated as many credits, you're struggling and everything is a little exciting when you find it.  I found that the excitement never really went away as I gained more characters and equipment and had my full range of options.  The game gives you enough agency and resources to handle the situations without failing to challenge you.  I still don't understand under what conditions you actually get a final game over, but man do I have a good time trying.
+
+Storyline: 85
+	While its not a great story, they certainly put the effort in to do cut scenes before mission and have a surface is burning world event.  The way area progression works, finding the rest of your team and finding new monsters and equipment definitely makes the world in the beginning of the game different from area 40.
+	
+Final Score:  79
+	I can't pretend its a great game or its without its problems, but if you like strategy games or doing rogue like runs, then you should check this out, it might just be a good time after all.
+	
+	It would appear the developers did one of the worst things you can do, abandon the title.  They have apparently rebranded it to a mobile game for android, but don't list "Super Turbo Demon Busters" on their site.
+
+-Kamurai
+
+References:
+	Steam:		http://store.steampowered.com/app/262810/Super_Turbo_Demon_Busters/
+	Developers:	http://www.herocraft.com/games/#!deadshell
+	
+General references:
+	Youtube:	http://youtube.com/GamingDivision
+	
+Tags:
+	#GamingDivision #GamingDivision528 #Games #Gaming #Review #strategy #roguelike

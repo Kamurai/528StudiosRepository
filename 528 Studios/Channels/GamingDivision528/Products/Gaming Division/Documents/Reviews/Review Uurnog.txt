@@ -1,0 +1,35 @@
+Review: Uurnog
+Platform:	PC, Steam
+Applicable Genre:  2D Platformer, Exploration, Fetch Quest
+
+General:
+	The game is fairly short and straight forward and doesn't require that you go everywhere, just that you fetch the necessary items it requests.
+	
+Aesthetics:  80
+	The graphics aren't great, but they are clear and stylized and, to me, that counts for a lot.  At the same time, they aren't wowing or amazing, they don't do anything clever except stay simple and cute.
+
+Control Interface:  80
+	Its a platformer, you move to move, you jump to jump, but a simple scheme is not a bad thing.  The game runs into a couple of problems when using the inventory as the touch detection is finicky and you may end up having things in the wrong place or using the wrong item.
+
+Environmental Controls:  75
+	This game can be very frustrating at times, it was nearly impossible to judge the blast radii of some of the explosions.  There are several items that count down and they are hard to get ahold of and dispose of: you're better off letting your entire save room go sometimes.  The platforming mechanics themselves are good enough minus some hit detection on platform corners and some of the tumbling physics.
+
+Game Mechanics:  80
+	It is very frustrating that the guns aren't labeled or given a description, amongst other items.  There were several times that I didn't realize I had the right items for the job which resulted in padding the game's runtime when it could have been much more "short and sweet".
+
+Storyline: n/a
+	This isn't a story game.  The only story is the adventure of you going through the dungeons...and opening a zoo.
+	
+Final Score:  78.75
+	If you're looking for a short platformer to play, there are a lot of them.  I can't necessarily say choose this over others, but if you do choose it, you should have fun.
+
+-Kamurai
+
+References:
+	Diatomic Games:		http://diatomicgames.com/sword-with-sauce/
+	
+General references:
+	Youtube:	http://youtube.com/GamingDivision
+	
+Tags:
+	#GamingDivision #GamingDivision528 #Games #Gaming #2d #platformer
