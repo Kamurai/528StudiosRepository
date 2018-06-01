@@ -1,0 +1,41 @@
+Gaming Division Review:
+Splasher
+
+Platform:	PC, Steam
+Applicable Genre:  2d platformer
+
+Hit or Skip:  Hit!
+	A fun twist on 2d platform shooter.
+
+General:
+	Splasher is very well designed: it using a step up method of empowering the character to help keep the game fresh as it progresses, as well as continuing to teach the player for quite a ways into the game.  It's easy enough get into, yet hard enough to master for those hardcore precision platformers.
+	
+Aesthetics:  89
+	This game is wonderfully stylized and has fantastic music.  The water / paint / grime is actually a well implemented aesthetic mechanic.  The details of the different sprites, to include being caught in the red goo, are spot on and the characers are cute.
+
+Control Interface:  55
+	One would think that a platformer has pretty standard controls: d-pad and a jump button.  Even classic precision platformers like Super Meat Boy operate on that basis.  Adding a fire or melee button is simple enough, but this ends up adding 3, and part of training at these precision platformers is live, die, repeat until you build up enough muscle memory to get through the level.  However doing the kind of twitch response this game requires heavily depends on that LDR methodology (when you're struggling), but building muscle memory like that is completely anti-thetical to switching fire buttons, even use the bumpers to switch would have been better by the time my hand is a worthless claw and my hand is sweating so much that I barely hold the controller.  Even jumping became unintuitive as you end up using one of the fire buttons to super jump instead normal jumping.
+
+Environmental Controls:  65
+	There is really only one problem I have in this category, but it's such a basic problem that it literally affects the entire game experience: the hitbox is wonky.  My theory is that it is an oversized rectangle which means that while the player would have an easier time landing on platforms as the room for error is less, but it also means the player is more likely to hit deadly objects as well.
+	
+Game Mechanics:  90
+	The game is really well designed, the tutorials proceed well into last quarter of the game, though it makes sense as you don't get the last piece of equipment until just before then.  Even the annoyingly laid out level selection area is well designed, and 
+
+Storyline: N/A
+	You can pretend this game has a storyline if you would like, but then you have to tell me what it is.
+	
+Final Score:  74.75
+	Give it a shot.
+
+-Kamurai
+
+References:
+	Site:		https://www.splasher-game.com/en/release-home/
+	Steam:		https://store.steampowered.com/app/446840/Splasher/
+	
+General references:
+	Youtube:	http://youtube.com/GamingDivision
+	
+Tags:
+	#GamingDivision #GamingDivision528 #Games #Gaming #Review #2d #platformer
