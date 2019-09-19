@@ -1,12 +1,12 @@
 #WeAreMovieClub Review:
-FILL
+Accepted
 
 Format: Live Action
-Applicable Settings: Modern
-Applicable Genres: FILL
+Applicable Settings: Modern 2000s
+Applicable Genres: Comedy
 
 Hit or Skip:  Hit!
-	FILL
+	A great cast and fantastic delivery of humor.
 
 General:
 	FILL
@@ -28,8 +28,8 @@ Final Score:  ##.#
 -Kamurai
 
 References:
-	IMDB:		FILL
-	Wikipedia:	FILL
+	IMDB:		https://www.imdb.com/title/tt0384793/
+	Wikipedia:	https://en.wikipedia.org/wiki/Accepted
 	
 General references:
 	Rabbit:		http://rabb.it/Kamurai
@@ -37,7 +37,7 @@ General references:
 	Playlist:	https://www.youtube.com/playlist?list=PL7AobbsQMTr-qoKKOARRBDYprOrIzcRdm
 	
 Tags:
-	#WeAreMovieClub #Movies Movie #Review
+	#WeAreMovieClub #Movies Movie #Review #Comedy
 
 	
 	

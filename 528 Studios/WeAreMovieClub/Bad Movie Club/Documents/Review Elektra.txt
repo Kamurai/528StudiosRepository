@@ -1,11 +1,11 @@
 #BadMovieClub  Review:
-FILL
+Elektra
 
 Format: Live Action
-Applicable Settings: Modern
-Applicable Genres: FILL
+Applicable Settings: Modern 2000s
+Applicable Genres: Action, Comics, Fantasy
 
-Hit or Skip:  Hit!
+Hit or Skip:  Miss!
 	FILL
 
 General:
@@ -28,8 +28,8 @@ Final Score:  ##.#
 -Kamurai
 
 References:
-	IMDB:		FILL
-	Wikipedia:	FILL
+	IMDB:		https://www.imdb.com/title/tt0357277/
+	Wikipedia:	https://en.wikipedia.org/wiki/Elektra_(2005_film)
 	
 General references:
 	Rabbit:		http://rabb.it/Kamurai
@@ -37,4 +37,4 @@ General references:
 	Playlist:	https://www.youtube.com/playlist?list=PL7AobbsQMTr_fqp93TlcSzT-IGDtBF7R3
 	
 Tags:
-	#BadMovieClub  #WeAreMovieClub #Horror #Movies #Movie #Review
+	#BadMovieClub  #WeAreMovieClub #Movies #Movie #Review #Action #Comics #Fantasy
